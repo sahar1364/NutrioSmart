@@ -62,5 +62,5 @@ public class UserDAO {
             throw new RuntimeException("UTF-8 unavailable?  Not a chance", e);
         }
     }
-    
+
 }
